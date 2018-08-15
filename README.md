@@ -1,0 +1,2 @@
+# Mavenproj
+Test artifactory project
